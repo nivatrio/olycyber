@@ -1,5 +1,5 @@
 {
-  "zedcustomer" : "olyquestZed",
+  "zedcustomer" : "olycyberZed",
   "plantsize": 30,
   "zedlimit": 0,
   "plantoperatingpercentage":100,
@@ -8,6 +8,7 @@
   "zedmeter": [
     {
       "zedmeterid": 3,
+      "DGzedmeterid": "NA"
       "zedmetertype" : "rtu",
       "zedmeterip":"192.168.0.103",
       "baudRate": 9600,
