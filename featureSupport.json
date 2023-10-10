@@ -3,7 +3,7 @@
   "deviceType": "solar",
   "pins": [17,16],
   "ledpins":21,
-  "customername":"olyquest",
+  "customername":"olycyber",
   "ftmodbus": "y",
   "ftjson": "n",
   "ftzed": "y",
