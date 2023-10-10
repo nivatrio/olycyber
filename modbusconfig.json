@@ -1,7 +1,7 @@
 {
   "inverters": [
     {
-      "name": "olyquest-inv1",
+      "name": "olycyber-inv1",
       "slaveId": 1,
       "slaveType":"RTU",
       "functionCode": 4,
@@ -26,7 +26,7 @@
   ]
 },
     {
-      "name": "olyquest-inv2",
+      "name": "olycyber-inv2",
       "slaveId": 2,
       "slaveType":"RTU",
       "functionCode": 4,
@@ -51,7 +51,7 @@
   ]
 },
     {
-      "name": "olyquest-inv2-time",
+      "name": "olycyber-inv2-time",
       "slaveId": 2,
       "slaveType":"RTU",
       "functionCode": 3,
@@ -68,7 +68,7 @@
       ]
 },
      {
-      "name": "olyquest-inv1-time",
+      "name": "olycyber-inv1-time",
       "slaveId": 1,
       "slaveType":"RTU",
       "functionCode": 3,
@@ -85,7 +85,7 @@
       ]
 },
 {
-      "name": "olyquestInv1Ctrl",
+      "name": "olycyberInv1Ctrl",
       "slaveId": 1,
       "slaveType":"RTU",
       "functionCode": 3,
@@ -102,7 +102,7 @@
   ]
 },
 {
-      "name": "olyquestInv2Ctrl",
+      "name": "olycyberInv2Ctrl",
       "slaveId": 2,
       "slaveType":"RTU",
       "functionCode": 3,
@@ -119,7 +119,7 @@
   ]
 },
   {
-      "name": "olyquest Grid Meter",
+      "name": "olycyber Grid Meter",
       "slaveId": 3,
       "slaveType":"RTU",
       "functionCode": 3,
