@@ -4,8 +4,8 @@
   "customername":"olycyber",
   "ftmodbus": "y",
   "ftjson": "n",
-  "ftzed": "r",
-  "interval": 10,
+  "ftzed": "y",
+  "interval": 2,
   "ftmqttcontrol": "n",
   "ftbtcontrol": "n"
 }
