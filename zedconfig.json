@@ -2,8 +2,8 @@
   "zedcustomer" : "olycyber-zed",
   "plantsize": 700,
   "zedlimit": 0,
-  "plantoperatingpercentage":40,
-    "resetzed": "n",
+  "plantoperatingpercentage":16,
+    "resetzed": "y",
   "zedbasedon": "grid",
   "zedmeter": [
     {
