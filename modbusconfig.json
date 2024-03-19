@@ -681,7 +681,7 @@
   ]
 },{
       "name": "olycyber-load meter  DG 3",
-      "slaveId": 22,
+      "slaveId": 19,
       "slaveType":"RTU",
       "functionCode": 3,
       "slaveIp" : "192.168.1.138",
@@ -865,7 +865,7 @@
 },
 {
       "name": "olycyber-load meter EB 3",
-      "slaveId": 21,
+      "slaveId": 20,
       "slaveType":"RTU",
       "functionCode": 3,
       "slaveIp" : "192.168.1.138",
@@ -911,7 +911,7 @@
 },
     {
       "name": "olycyber-load meter EB 4",
-      "slaveId": 20,
+      "slaveId": 21,
       "slaveType":"RTU",
       "functionCode": 3,
       "slaveIp" : "192.168.1.138",
