@@ -726,6 +726,144 @@
   ]
 },
 {
+      "name": "olycyber-load meter 4",
+      "slaveId": 16,
+      "slaveType":"RTU",
+      "functionCode": 3,
+      "slaveIp" : "192.168.1.138",
+      "baudRate": 9600,
+      "dataBits": 8,
+      "stopBits": 1,
+      "parity": "none",
+       "registers": [
+        {
+          "start": 2699,
+          "count": 24
+        },
+        {
+          "start": 2999,
+          "count": 36
+        },
+        {
+          "start": 3035,
+          "count": 58
+        },
+        {
+          "start": 3109,
+          "count": 2
+        }
+        ,
+        {
+          "start": 3191,
+          "count": 6
+        },
+        {
+          "start": 3199,
+          "count": 52
+        },
+        {
+          "start": 3763,
+          "count": 8
+        },
+        {
+          "start": 3875,
+          "count": 8
+        }
+  ]
+},
+{
+      "name": "olycyber-load meter 5",
+      "slaveId": 18,
+      "slaveType":"RTU",
+      "functionCode": 3,
+      "slaveIp" : "192.168.1.138",
+      "baudRate": 9600,
+      "dataBits": 8,
+      "stopBits": 1,
+      "parity": "none",
+       "registers": [
+        {
+          "start": 2699,
+          "count": 24
+        },
+        {
+          "start": 2999,
+          "count": 36
+        },
+        {
+          "start": 3035,
+          "count": 58
+        },
+        {
+          "start": 3109,
+          "count": 2
+        }
+        ,
+        {
+          "start": 3191,
+          "count": 6
+        },
+        {
+          "start": 3199,
+          "count": 52
+        },
+        {
+          "start": 3763,
+          "count": 8
+        },
+        {
+          "start": 3875,
+          "count": 8
+        }
+  ]
+},
+{
+      "name": "olycyber-load meter 6",
+      "slaveId": 21,
+      "slaveType":"RTU",
+      "functionCode": 3,
+      "slaveIp" : "192.168.1.138",
+      "baudRate": 9600,
+      "dataBits": 8,
+      "stopBits": 1,
+      "parity": "none",
+       "registers": [
+        {
+          "start": 2699,
+          "count": 24
+        },
+        {
+          "start": 2999,
+          "count": 36
+        },
+        {
+          "start": 3035,
+          "count": 58
+        },
+        {
+          "start": 3109,
+          "count": 2
+        }
+        ,
+        {
+          "start": 3191,
+          "count": 6
+        },
+        {
+          "start": 3199,
+          "count": 52
+        },
+        {
+          "start": 3763,
+          "count": 8
+        },
+        {
+          "start": 3875,
+          "count": 8
+        }
+  ]
+},
+{
       "name": "olycyber-zedctl-1",
       "slaveId": 1,
       "slaveType":"RTU",
