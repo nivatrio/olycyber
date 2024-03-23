@@ -3,7 +3,7 @@
   "plantsize": 700,
   "zedlimit": -80,
   "plantoperatingpercentage":5,
-  "loadformin": "total"
+  "loadformin": "total",
     "resetzed": "n",
   "zedbasedon": "grid",
   "zedmeter": [
