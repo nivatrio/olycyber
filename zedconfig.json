@@ -1,7 +1,7 @@
 {
   "zedcustomer" : "olycyber-zed",
   "plantsize": 700,
-  "zedlimit": -80,
+  "zedlimit": 0,
   "plantoperatingpercentage":5,
   "loadformin": "total",
     "resetzed": "n",
