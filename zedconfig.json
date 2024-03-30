@@ -5,7 +5,7 @@
   "plantoperatingpercentage":5,
   "loadformin": "total",
     "resetzed": "n",
-  "zedbasedon": "load",
+  "zedbasedon": "grid",
   "zedmeter": [
     {
       "zedmeterid": 15,
