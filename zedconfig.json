@@ -7,6 +7,78 @@
     "resetzed": "n",
   "zedbasedon": "load",
   "zedmeter": [
+    {
+      "zedmeterid": 15,
+      "zedmetertype" : "rtu",
+      "zedmeterip":"192.168.0.103",
+      "baudRate": 9600,
+      "dataBits": 8,
+      "stopBits": 1,
+      "parity": "none",
+      "zedmetermultiplicationfactor" : 1,
+      "functionCode": 3,
+      "registers": [
+        {
+          "start": 3059,
+          "count": 2
+        
+        }
+      ]
+    },
+    {
+      "zedmeterid": 17,
+      "zedmetertype" : "rtu",
+      "zedmeterip":"192.168.0.103",
+      "baudRate": 9600,
+      "dataBits": 8,
+      "stopBits": 1,
+      "parity": "none",
+      "zedmetermultiplicationfactor" : 1,
+      "functionCode": 3,
+      "registers": [
+        {
+          "start": 3059,
+          "count": 2
+        
+        }
+      ]
+    },
+    {
+      "zedmeterid": 19,
+      "zedmetertype" : "rtu",
+      "zedmeterip":"192.168.0.103",
+      "baudRate": 9600,
+      "dataBits": 8,
+      "stopBits": 1,
+      "parity": "none",
+      "zedmetermultiplicationfactor" : 1,
+      "functionCode": 3,
+      "registers": [
+        {
+          "start": 3059,
+          "count": 2
+        
+        }
+      ]
+    },
+    {
+      "zedmeterid": 22,
+      "zedmetertype" : "rtu",
+      "zedmeterip":"192.168.0.103",
+      "baudRate": 9600,
+      "dataBits": 8,
+      "stopBits": 1,
+      "parity": "none",
+      "zedmetermultiplicationfactor" : 1,
+      "functionCode": 3,
+      "registers": [
+        {
+          "start": 3059,
+          "count": 2
+        
+        }
+      ]
+    },
     
     {
       "zedmeterid": 16,
