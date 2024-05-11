@@ -6,6 +6,7 @@
   "loadformin": "total",
     "resetzed": "n",
   "zedbasedon": "load",
+  "loadformin": "all",
   "zedmeter": [
     {
       "zedmeterid": 15,
